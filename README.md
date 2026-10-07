@@ -259,7 +259,7 @@
             </div>
             <div class="brand">
                 <h1> Ecolook </h1>
-                <p>"Todo tiene su lado bello pero no todos lo ven"</p>
+                <p> </p>
 
             </div>
             <div class="contenedor2">
@@ -298,204 +298,354 @@
         <div class="grid-productos">
 
             <div class="producto">
-                <img src="imagenes/peluche01.webp" alt="Peluche Osito Clásico">
+                <img src= vestidomarron alt="Peluche Osito Clásico">
                 <div class="producto-info">
-                    <h2>Osito Clásico</h2>
-                    <p>Osito de peluche suave, ideal para abrazar y decorar la habitación.</p>
+                    <h2>Vestido</h2>
+                    <p>Vestido color marrón talle U.</p>
+                    <span class="precio">$3.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="vestidonegro.jpg" alt="Peluche Conejo Orejón">
+                <div class="producto-info">
+                    <h2>Vestido</h2>
+                    <p>Vestido color negro talle U.</p>
+                    <span class="precio">$3.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="poll" alt="Peluche Perrito Dormilón">
+                <div class="producto-info">
+                    <h2>Pollera</h2>
+                    <p>Pollera de jean de niña talle 6.</p>
+                    <span class="precio">$3.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="remerablancaadidas.jpg" alt="Peluche Gatito Curioso">
+                <div class="producto-info">
+                    <h2>Remera</h2>
+                    <p>Remera de algodón elastizado talle 6.</p>
+                    <span class="precio">$1.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="topnegromangaslargas.jpg" alt="Peluche Panda Bebé">
+                <div class="producto-info">
+                    <h2>Top</h2>
+                    <p>Top negro manga larga transparente.</p>
+                    <span class="precio">$4.000</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="pollerajeannenagrande.jpg" alt="Peluche Elefante Chiquito">
+                <div class="producto-info">
+                    <h2>Pollera</h2>
+                    <p>Pollera de jean talle .</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="pantalonnegro con friza.jpg" alt="Peluche León Melenudo">
+                <div class="producto-info">
+                    <h2>Pantalón</h2>
+                    <p>Pantalón negro con friza.</p>
+                    <span class="precio">$3.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="jeant44.jpg" alt="Peluche Jirafa Alta">
+                <div class="producto-info">
+                    <h2>Pantalón</h2>
+                    <p>Pantalón de jean talle 46.</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="sueterfelicialila.jpg" alt="Peluche Zorro Astuto">
+                <div class="producto-info">
+                    <h2>Suéter</h2>
+                    <p>suéter violeta Felicia.</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="buzoverde.jpg" alt="Peluche Koala Tierno">
+                <div class="producto-info">
+                    <h2>Buzo</h2>
+                    <p>buzo color verde talle 12.</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="remera_paris.._" alt="Peluche Pingüino Polar">
+                <div class="producto-info">
+                    <h2>Remera</h2>
+                    <p>Remera "París  sanit-germain" talle S.</p>
+                    <span class="precio">$2.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="remerarojacaptainfin.jpg" alt="Peluche Unicornio Mágico">
+                <div class="producto-info">
+                    <h2>Remera</h2>
+                    <p>Remera roja captain fin talle M.</p>
+                    <span class="precio">$2.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="buzoblanco.jpg" alt="Peluche Tigre Rayado">
+                <div class="producto-info">
+                    <h2>Buzo del uniforme escolar</h2>
+                    <p>Buzo blanco uniforme de educación fisica.</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="chombapique.jpg" alt="Peluche Oveja Lanuda">
+                <div class="producto-info">
+                    <h2>Chomba del uniforme escolar</h2>
+                    <p>Chomba de piqué beige del uniforme.</p>
+                    <span class="precio">$4.500</span>
+
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="sueterverde.jpg" alt="Peluche Rana Saltarina">
+                <div class="producto-info">
+                    <h2>Suéter del uniforme escolar</h2>
+                    <p>Suéter verde uniforme de clases.</p>
+                    <span class="precio">$4.500</span>
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="pantalonuniforme.jpg" alt="Peluche Pulpo Multicolor">
+                <div class="producto-info">
+                    <h2>Pantalón del uniforme escolar</h2>
+                    <p>Pantalón de vestir del uniforme.</p>
+                    <span class="precio">$4.500</span>
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="camperaacetato.jpg" alt="Peluche Búho Nocturno">
+                <div class="producto-info">
+                    <h2>Campera del uniforme escolar</h2>
+                    <p>Campera uniforme de acetato.</p>
+                    <span class="precio">$6.000</span>
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="JOGGINGVERDE.jpg" alt="Peluche Dinosaurio Amigable">
+                <div class="producto-info">
+                    <h2>Pantalón del uniforme escolar</h2>
+                    <p>Pantalon jogging verde del uniforme.</p>
+                    <span class="precio">$4.500</span>
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="ZPATOSNEGROSHOMBRE.jpeg" alt="Peluche Ballena Azul">
+                <div class="producto-info">
+                    <h2>Zapatos</h2>
+                    <p>Zapatos negros.</p>
+                    <span class="precio">$9.000</span>
+                </div>
+            </div>
+
+            <div class="producto">
+                <img src="animalprintzapatos.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Zapatos</h2>
+                    <p>Zapatos de gamuza negra con plataforma animal print talle 36.</p>
+                    <span class="precio">$5.000</span>
+                </div>
+            </div>
+            <div class="producto">
+                <img src="sandaliasnegrascadenas.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Sandalias</h2>
+                    <p>sandalias negras con aplique de cadenas talle 30/31.</p>
                     <span class="precio">$8.500</span>
-
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche02.webp" alt="Peluche Conejo Orejón">
+                <img src="botas marrones.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Conejo Orejón</h2>
-                    <p>Conejo de orejas largas, tela afelpada y relleno hipoalergénico.</p>
-                    <span class="precio">$7.900</span>
-
+                    <h2>Botas</h2>
+                    <p>botas marrones talle 3/31.</p>
+                    <span class="precio">$9.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche03.jpg" alt="Peluche Perrito Dormilón">
+                <img src="ZPATOSNEGROSNENA.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Perrito Dormilón</h2>
-                    <p>Perrito con expresión tierna, perfecto para dormir acompañado.</p>
-                    <span class="precio">$9.200</span>
-
+                    <h2>Zapatos</h2>
+                    <p>zapatos negros talle 37.</p>
+                    <span class="precio">$7.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche04.webp" alt="Peluche Gatito Curioso">
+                <img src="sandaliasblancas.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Gatito Curioso</h2>
-                    <p>Gatito de peluche con ojos brillantes y colita esponjosa.</p>
-                    <span class="precio">$8.100</span>
-
+                    <h2>Sandalias</h2>
+                    <p>sandalias blancas con plataforma talle 37.</p>
+                    <span class="precio">$7.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche05.webp" alt="Peluche Panda Bebé">
+                <img src="botas negras.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Panda Bebé</h2>
-                    <p>Panda tierno en blanco y negro, tamaño mediano.</p>
-                    <span class="precio">$10.400</span>
-
+                    <h2>Botas</h2>
+                    <p>botas negras talle 30/31.</p>
+                    <span class="precio">$7.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche06.jpg" alt="Peluche Elefante Chiquito">
+                <img src="libroINGLESyabuelaANORMAL.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Elefante Chiquito</h2>
-                    <p>Elefante gris de trompa larga, ideal para bebés.</p>
-                    <span class="precio">$7.300</span>
-
+                    <h2>Libro</h2>
+                    <p>LIbro “The picture of Dorian Gray” y "Una abuela anormal”".</p>
+                    <span class="precio">$5.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche07.jpg" alt="Peluche León Melenudo">
+                <img src="libro_lluviasabeporque.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>León Melenudo</h2>
-                    <p>León con melena esponjosa y expresión amigable.</p>
-                    <span class="precio">$9.800</span>
-
+                    <h2>Libro</h2>
+                    <p>Libro "La lluvia sabe por qué".</p>
+                    <span class="precio">$3.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche08.webp" alt="Peluche Jirafa Alta">
+                <img src="novelasimpresas_frankestein y ceremoniasecreta.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Jirafa Alta</h2>
-                    <p>Jirafa de cuello largo y manchas cosidas a mano.</p>
-                    <span class="precio">$11.000</span>
-
+                    <h2>Novela</h2>
+                    <p>Novela “Frankenstein o el moderno prometeo" y “Ceremonia secreta”.</p>
+                    <span class="precio">$3.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche09.jpg" alt="Peluche Zorro Astuto">
+                <img src="libro_losvecinosmueren.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Zorro Astuto</h2>
-                    <p>Zorro de colores cálidos, cola grande y suave.</p>
-                    <span class="precio">$8.700</span>
-
+                    <h2>Novela</h2>
+                    <p>Novela  "Los vecinos mueren en las novelas".</p>
+                    <span class="precio">$3.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche10.avif" alt="Peluche Koala Tierno">
+                <img src="novelasimpresas_shrezada y rebeliondepalabras.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Koala Tierno</h2>
-                    <p>Koala abrazado a una rama, textura ultra suave.</p>
-                    <span class="precio">$9.500</span>
-
+                    <h2>Novela</h2>
+                    <p>Novela “Una y mil noches de sherezada" y “La rebelión de las palabras”.</p>
+                    <span class="precio">$3.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche11.jpg" alt="Peluche Pingüino Polar">
+                <img src="libro_cronicamuerte.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Pingüino Polar</h2>
-                    <p>Pingüino blanco y negro con bufanda tejida.</p>
-                    <span class="precio">$8.300</span>
-
+                    <h2>Novela</h2>
+                    <p>Novela "Crónica de una muerte anunciada".</p>
+                    <span class="precio">$3.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche12.webp" alt="Peluche Unicornio Mágico">
+                <img src="plazaponis.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Unicornio Mágico</h2>
-                    <p>Unicornio con crin de colores y cuerno bordado.</p>
-                    <span class="precio">$10.900</span>
-
+                    <h2>Juguete</h2>
+                    <p>Juguete Plaza con ponis.</p>
+                    <span class="precio">$5.000</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche13.jpg" alt="Peluche Tigre Rayado">
+                <img src="jueguetebebe.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Tigre Rayado</h2>
-                    <p>Tigre de rayas suaves y mirada juguetona.</p>
-                    <span class="precio">$9.100</span>
-
+                    <h2>Juguete</h2>
+                    <p>Juguete bebé con bolso.</p>
+                    <span class="precio">$3.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche14.webp" alt="Peluche Oveja Lanuda">
+                <img src="bolsofrozen.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Oveja Lanuda</h2>
-                    <p>Oveja blanca de lana simulada, muy esponjosa.</p>
-                    <span class="precio">$7.600</span>
-
+                    <h2>Juguete</h2>
+                    <p>Juguete bolso de frozen.</p>
+                    <span class="precio">$1.500</span>
                 </div>
             </div>
-
             <div class="producto">
-                <img src="imagenes/peluche15.jpg" alt="Peluche Rana Saltarina">
-                <div class="producto-info">
-                    <h2>Rana Saltarina</h2>
-                    <p>Rana verde de ojos grandes y sonrisa simpática.</p>
-                    <span class="precio">$6.900</span>
-                </div>
-            </div>
-
-            <div class="producto">
-                <img src="imagenes/peluche16.webp" alt="Peluche Pulpo Multicolor">
-                <div class="producto-info">
-                    <h2>Pulpo Multicolor</h2>
-                    <p>Pulpo de ocho tentáculos con textura acolchada.</p>
-                    <span class="precio">$9.900</span>
-                </div>
-            </div>
-
-            <div class="producto">
-                <img src="imagenes/peluche17.webp" alt="Peluche Búho Nocturno">
-                <div class="producto-info">
-                    <h2>Búho Nocturno</h2>
-                    <p>Búho de plumas bordadas y ojos grandes redondos.</p>
-                    <span class="precio">$8.400</span>
-                </div>
-            </div>
-
-            <div class="producto">
-                <img src="imagenes/peluuche18.webp" alt="Peluche Dinosaurio Amigable">
-                <div class="producto-info">
-                    <h2>Dinosaurio Amigable</h2>
-                    <p>Dinosaurio verde con espinas suaves en el lomo.</p>
-                    <span class="precio">$10.200</span>
-                </div>
-            </div>
-
-            <div class="producto">
-                <img src="imagenes/peluche19.webp" alt="Peluche Ballena Azul">
-                <div class="producto-info">
-                    <h2>Ballena Azul</h2>
-                    <p>Ballena grande y liviana, ideal como almohadón.</p>
-                    <span class="precio">$12.300</span>
-                </div>
-            </div>
-
-            <div class="producto">
-                <img src="imagenes/peluche20.webp" alt="Peluche Mono Trepador">
+                <img src="topbyn.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Mono Trepador</h2>
                     <p>Mono de brazos largos con velcro en las manos.</p>
                     <span class="precio">$8.800</span>
                 </div>
             </div>
-
+            <div class="producto">
+                <img src="topnegroecocuero.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Mono Trepador</h2>
+                    <p>Mono de brazos largos con velcro en las manos.</p>
+                    <span class="precio">$8.800</span>
+                </div>
+            </div>
+            <div class="producto">
+                <img src="toprojo.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Mono Trepador</h2>
+                    <p>Mono de brazos largos con velcro en las manos.</p>
+                    <span class="precio">$8.800</span>
+                </div>
+            </div>
+            <div class="producto">
+                <img src="toprosacon volados.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Mono Trepador</h2>
+                    <p>Mono de brazos largos con velcro en las manos.</p>
+                    <span class="precio">$8.800</span>
+                </div>
+            </div>
+            <div class="producto">
+                <img src="toprosa.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Mono Trepador</h2>
+                    <p>Mono de brazos largos con velcro en las manos.</p>
+                    <span class="precio">$8.800</span>
+                </div>
         </div>
     </main>
 
     <footer>
-        <p>&copy; 2026 Tienda Ecoloop - Todos los derechos reservados</p>
+        <p>&copy; 2026 Tienda Ecolook - Todos los derechos reservados</p>
     </footer>
 
 </body>

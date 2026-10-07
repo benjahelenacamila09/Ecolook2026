@@ -473,14 +473,7 @@
                 </div>
             </div>
 
-            <div class="producto">
-                <img src="zapatos negro t40.jpg" alt="Peluche Ballena Azul">
-                <div class="producto-info">
-                    <h2>Zapatos</h2>
-                    <p>Zapatos negros.</p>
-                    <span class="precio">$9.000</span>
-                </div>
-            </div>
+        
 
             <div class="producto">
                 <img src="animalprintzapatos.jpg" alt="Peluche Mono Trepador">
@@ -642,12 +635,10 @@
                     <span class="precio">$3.500</span>
                 </div>
         </div>
-    </main>
+ 
 
     <footer>
         <p>&copy; 2026 Tienda Ecolook - Todos los derechos reservados</p>
     </footer>
 
-</body>
 
-</html>

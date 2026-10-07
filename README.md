@@ -279,8 +279,7 @@
 
             <div class="mercadopago">
                 <img src="mercadopt.png" alt="">
-                <a href="https://link.mercadopago.com.ar/laconsolini.mp" target="_blank" class="enlaces">Link de Mercado
-                    Pago
+                <a href="" target="_blank" class="enlaces">Alias: CONSOLINI.MP
                 </a>
             </div>
             <div class="instagran">

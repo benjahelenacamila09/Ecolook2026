@@ -636,7 +636,7 @@
                 </div>
                 </div>
             <div class="producto">
-                <img src="buzo de mujer hermoso.jpeg" alt="">
+                <img src="BUZO.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Buzo</h2>
                     <p>Buzo de mujer Talle 3.</p>

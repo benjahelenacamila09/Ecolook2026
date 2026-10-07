@@ -298,7 +298,7 @@
         <div class="grid-productos">
 
             <div class="producto">
-                <img src= "vestidomarron.jpg" alt="Peluche Osito Clásico">
+                <img src= "vestidomarron.jpg" alt="">
                 <div class="producto-info">
                     <h2>Vestido</h2>
                     <p>Vestido color marrón talle U.</p>
@@ -308,7 +308,7 @@
             </div>
 
             <div class="producto">
-                <img src="vestidonegro.jpeg" alt="Peluche Conejo Orejón">
+                <img src="vestidonegro.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Vestido</h2>
                     <p>Vestido color negro talle U.</p>
@@ -318,7 +318,7 @@
             </div>
 
             <div class="producto">
-                <img src="polleraniña.jpeg" alt="Peluche Perrito Dormilón">
+                <img src="polleraniña.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Pollera</h2>
                     <p>Pollera de jean de niña talle 6.</p>
@@ -328,7 +328,7 @@
             </div>
 
             <div class="producto">
-                <img src="remerablancaadidas.jpg" alt="Peluche Gatito Curioso">
+                <img src="remerablancaadidas.jpg" alt="">
                 <div class="producto-info">
                     <h2>Remera</h2>
                     <p>Remera de algodón elastizado talle 6.</p>
@@ -338,7 +338,7 @@
             </div>
 
             <div class="producto">
-                <img src="topnegromangaslargas.jpg" alt="Peluche Panda Bebé">
+                <img src="topnegromangaslargas.jpg" alt="">
                 <div class="producto-info">
                     <h2>Top</h2>
                     <p>Top negro manga larga transparente Talle Único.</p>
@@ -348,7 +348,7 @@
             </div>
 
             <div class="producto">
-                <img src="pollerajeannenagrande.jpg" alt="Peluche Elefante Chiquito">
+                <img src="pollerajeannenagrande.jpg" alt="">
                 <div class="producto-info">
                     <h2>Pollera</h2>
                     <p>Pollera de jean talle 36.</p>
@@ -358,7 +358,7 @@
             </div>
 
             <div class="producto">
-                <img src="pantalonnegro con friza.jpg" alt="Peluche León Melenudo">
+                <img src="pantalonnegro con friza.jpg" alt="">
                 <div class="producto-info">
                     <h2>Pantalón</h2>
                     <p>Pantalón negro con friza Talle 16.</p>
@@ -368,7 +368,7 @@
             </div>
 
             <div class="producto">
-                <img src="jeant44.jpg" alt="Peluche Jirafa Alta">
+                <img src="jeant44.jpg" alt="">
                 <div class="producto-info">
                     <h2>Pantalón</h2>
                     <p>Pantalón de jean talle 46.</p>
@@ -378,7 +378,7 @@
             </div>
 
             <div class="producto">
-                <img src="sueterfelicialila.jpeg" alt="Peluche Zorro Astuto">
+                <img src="sueterfelicialila.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Suéter</h2>
                     <p>suéter violeta Felicia Talle 16.</p>
@@ -388,7 +388,7 @@
             </div>
 
             <div class="producto">
-                <img src="buzoverde.jpg" alt="Peluche Koala Tierno">
+                <img src="buzoverde.jpg" alt="">
                 <div class="producto-info">
                     <h2>Buzo</h2>
                     <p>buzo color verde talle 12.</p>
@@ -398,7 +398,7 @@
             </div>
 
             <div class="producto">
-                <img src="remeraparis.jpeg" alt="Peluche Pingüino Polar">
+                <img src="remeraparis.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Remera</h2>
                     <p>Remera "París  sanit-germain" talle S.</p>
@@ -408,7 +408,7 @@
             </div>
 
             <div class="producto">
-                <img src="remerarojacaptainfin.jpg" alt="Peluche Unicornio Mágico">
+                <img src="remerarojacaptainfin.jpg" alt="">
                 <div class="producto-info">
                     <h2>Remera</h2>
                     <p>Remera roja captain fin talle M.</p>
@@ -418,7 +418,7 @@
             </div>
 
             <div class="producto">
-                <img src="buzoblanco.jpeg" alt="Peluche Tigre Rayado">
+                <img src="buzoblanco.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Buzo del uniforme escolar</h2>
                     <p>Buzo blanco uniforme de educación fisica Talle 16.</p>
@@ -428,7 +428,7 @@
             </div>
 
             <div class="producto">
-                <img src="chombapique.jpeg" alt="Peluche Oveja Lanuda">
+                <img src="chombapique.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Chomba del uniforme escolar</h2>
                     <p>Chomba de piqué beige del uniforme Talle 12.</p>
@@ -438,7 +438,7 @@
             </div>
 
             <div class="producto">
-                <img src="sueterverde.jpeg" alt="Peluche Rana Saltarina">
+                <img src="sueterverde.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Suéter del uniforme escolar</h2>
                     <p>Suéter verde uniforme de clases Talle 2.</p>
@@ -447,7 +447,7 @@
             </div>
 
             <div class="producto">
-                <img src="pantalonuniforme.jpeg" alt="Peluche Pulpo Multicolor">
+                <img src="pantalonuniforme.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
                     <p>Pantalón de vestir del uniforme Talle 36.</p>
@@ -456,7 +456,7 @@
             </div>
 
             <div class="producto">
-                <img src="camperaacetato.jpg" alt="Peluche Búho Nocturno">
+                <img src="camperaacetato.jpg" alt="">
                 <div class="producto-info">
                     <h2>Campera del uniforme escolar</h2>
                     <p>Campera uniforme de acetato Talle 16.</p>
@@ -465,7 +465,7 @@
             </div>
 
             <div class="producto">
-                <img src="JOGGINGVERDE.jpeg" alt="Peluche Dinosaurio Amigable">
+                <img src="JOGGINGVERDE.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
                     <p>Pantalon jogging verde del uniforme Talle 16.</p>
@@ -476,7 +476,7 @@
         
 
             <div class="producto">
-                <img src="animalprintzapatos.jpg" alt="Peluche Mono Trepador">
+                <img src="animalprintzapatos.jpg" alt="r">
                 <div class="producto-info">
                     <h2>Zapatos</h2>
                     <p>Zapatos de gamuza negra con plataforma animal print talle 36.</p>
@@ -484,7 +484,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="sandaliasnegrascadenas.jpg" alt="Peluche Mono Trepador">
+                <img src="sandaliasnegrascadenas.jpg" alt="r">
                 <div class="producto-info">
                     <h2>Sandalias</h2>
                     <p>sandalias negras con aplique de cadenas talle 30/31.</p>
@@ -492,7 +492,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="botas marrones.jpg" alt="Peluche Mono Trepador">
+                <img src="botas marrones.jpg" alt="">
                 <div class="producto-info">
                     <h2>Botas</h2>
                     <p>botas marrones talle 30/31.</p>
@@ -500,7 +500,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="ZAPATOSNEGROSNENA.jpeg" alt="Peluche Mono Trepador">
+                <img src="ZAPATOSNEGROSNENA.jpeg" alt="r">
                 <div class="producto-info">
                     <h2>Zapatos</h2>
                     <p>zapatos negros talle 37.</p>
@@ -508,7 +508,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="sandaliasblancas.jpg" alt="Peluche Mono Trepador">
+                <img src="sandaliasblancas.jpg" alt="">
                 <div class="producto-info">
                     <h2>Sandalias</h2>
                     <p>sandalias blancas con plataforma talle 37.</p>
@@ -516,7 +516,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="botas negras.jpg" alt="Peluche Mono Trepador">
+                <img src="botas negras.jpg" alt="r">
                 <div class="producto-info">
                     <h2>Botas</h2>
                     <p>botas negras talle 30/31.</p>
@@ -524,7 +524,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="libroINGLESyabuelaANORMAL.jpeg" alt="Peluche Mono Trepador">
+                <img src="libroINGLESyabuelaANORMAL.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Libro</h2>
                     <p>LIbro “The picture of Dorian Gray” y "Una abuela anormal”".</p>
@@ -532,7 +532,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="libro_lluviasabeporque.jpg" alt="Peluche Mono Trepador">
+                <img src="libro_lluviasabeporque.jpg" alt="">
                 <div class="producto-info">
                     <h2>Libro</h2>
                     <p>Libro "La lluvia sabe por qué".</p>
@@ -540,7 +540,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="novelasimpresas_frankestein y ceremoniasecreta.jpeg" alt="Peluche Mono Trepador">
+                <img src="novelasimpresas_frankestein y ceremoniasecreta.jpeg" alt="r">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Frankenstein o el moderno prometeo" y “Ceremonia secreta”.</p>
@@ -548,7 +548,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="libro_losvecinosmueren.jpg" alt="Peluche Mono Trepador">
+                <img src="libro_losvecinosmueren.jpg" alt="r">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela  "Los vecinos mueren en las novelas".</p>
@@ -556,7 +556,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="novelasimpresas_shrezada y rebeliondepalabras.jpeg" alt="Peluche Mono Trepador">
+                <img src="novelasimpresas_shrezada y rebeliondepalabras.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Una y mil noches de sherezada" y “La rebelión de las palabras”.</p>
@@ -564,7 +564,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="libro_cronicamuerte.jpg" alt="Peluche Mono Trepador">
+                <img src="libro_cronicamuerte.jpg" alt="">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela "Crónica de una muerte anunciada".</p>
@@ -572,7 +572,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="plazaponis.jpg" alt="Peluche Mono Trepador">
+                <img src="plazaponis.jpg" alt="">
                 <div class="producto-info">
                     <h2>Juguete</h2>
                     <p>Juguete Plaza con ponis.</p>
@@ -580,7 +580,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="jueguetebebe.jpg" alt="Peluche Mono Trepador">
+                <img src="jueguetebebe.jpg" alt="">
                 <div class="producto-info">
                     <h2>Juguete</h2>
                     <p>Juguete bebé con bolso.</p>
@@ -588,7 +588,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="bolsofrozen.jpg" alt="Peluche Mono Trepador">
+                <img src="bolsofrozen.jpg" alt="">
                 <div class="producto-info">
                     <h2>Juguete</h2>
                     <p>Juguete bolso de frozen.</p>
@@ -633,6 +633,38 @@
                     <h2>Top</h2>
                     <p>top color rosa Talle UNICO.</p>
                     <span class="precio">$3.500</span>
+                </div>
+                </div>
+            <div class="producto">
+                <img src="buz mu" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Buzo</h2>
+                    <p>Buzo de mujer Talle 3.</p>
+                    <span class="precio">$4.000</span>
+                </div>
+                </div>
+            <div class="producto">
+                <img src="toprosa.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Bermuda</h2>
+                    <p>Bermuda de Niño Blanca, Talle S.</p>
+                    <span class="precio">$3.000</span>
+                </div>
+                </div>
+            <div class="producto">
+                <img src="toprosa.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Camiseta</h2>
+                    <p>Camiseta Blanca Talla L Marca Polo.</p>
+                    <span class="precio">$6.000</span>
+                </div>
+                </div>
+            <div class="producto">
+                <img src="toprosa.jpg" alt="Peluche Mono Trepador">
+                <div class="producto-info">
+                    <h2>Buzo</h2>
+                    <p>Buzo blanco Talle único.</p>
+                    <span class="precio">$4.500</span>
                 </div>
         </div>
  

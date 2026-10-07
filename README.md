@@ -1,4 +1,4 @@
-[codigonuevo.html](https://github.com/user-attachments/files/32236976/codigonuevo.html)
+[pagina.html](https://github.com/user-attachments/files/32236976/codigonuevo.html)
 <!DOCTYPE html>
 <html lang="es">
 
@@ -12,7 +12,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
             font-family: Arial, Helvetica, sans-serif;
             background-color: #f5f5f5;

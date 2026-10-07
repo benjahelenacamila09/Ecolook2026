@@ -298,7 +298,7 @@
         <div class="grid-productos">
 
             <div class="producto">
-                <img src= vestidomarron alt="Peluche Osito Clásico">
+                <img src= "vestidomarron.jpg" alt="Peluche Osito Clásico">
                 <div class="producto-info">
                     <h2>Vestido</h2>
                     <p>Vestido color marrón talle U.</p>
@@ -308,7 +308,7 @@
             </div>
 
             <div class="producto">
-                <img src="vestidonegro.jpg" alt="Peluche Conejo Orejón">
+                <img src="vestidonegro.jpeg" alt="Peluche Conejo Orejón">
                 <div class="producto-info">
                     <h2>Vestido</h2>
                     <p>Vestido color negro talle U.</p>
@@ -318,7 +318,7 @@
             </div>
 
             <div class="producto">
-                <img src="poll" alt="Peluche Perrito Dormilón">
+                <img src="polleraniña.jpeg" alt="Peluche Perrito Dormilón">
                 <div class="producto-info">
                     <h2>Pollera</h2>
                     <p>Pollera de jean de niña talle 6.</p>
@@ -378,7 +378,7 @@
             </div>
 
             <div class="producto">
-                <img src="sueterfelicialila.jpg" alt="Peluche Zorro Astuto">
+                <img src="sueterfelicialila.jpeg" alt="Peluche Zorro Astuto">
                 <div class="producto-info">
                     <h2>Suéter</h2>
                     <p>suéter violeta Felicia.</p>
@@ -398,7 +398,7 @@
             </div>
 
             <div class="producto">
-                <img src="remera_paris.._" alt="Peluche Pingüino Polar">
+                <img src="remeraparis.jpeg" alt="Peluche Pingüino Polar">
                 <div class="producto-info">
                     <h2>Remera</h2>
                     <p>Remera "París  sanit-germain" talle S.</p>
@@ -418,7 +418,7 @@
             </div>
 
             <div class="producto">
-                <img src="buzoblanco.jpg" alt="Peluche Tigre Rayado">
+                <img src="buzoblanco.jpeg" alt="Peluche Tigre Rayado">
                 <div class="producto-info">
                     <h2>Buzo del uniforme escolar</h2>
                     <p>Buzo blanco uniforme de educación fisica.</p>
@@ -428,7 +428,7 @@
             </div>
 
             <div class="producto">
-                <img src="chombapique.jpg" alt="Peluche Oveja Lanuda">
+                <img src="chombapique.jpeg" alt="Peluche Oveja Lanuda">
                 <div class="producto-info">
                     <h2>Chomba del uniforme escolar</h2>
                     <p>Chomba de piqué beige del uniforme.</p>
@@ -438,7 +438,7 @@
             </div>
 
             <div class="producto">
-                <img src="sueterverde.jpg" alt="Peluche Rana Saltarina">
+                <img src="sueterverde.jpeg" alt="Peluche Rana Saltarina">
                 <div class="producto-info">
                     <h2>Suéter del uniforme escolar</h2>
                     <p>Suéter verde uniforme de clases.</p>
@@ -447,7 +447,7 @@
             </div>
 
             <div class="producto">
-                <img src="pantalonuniforme.jpg" alt="Peluche Pulpo Multicolor">
+                <img src="pantalonuniforme.jpeg" alt="Peluche Pulpo Multicolor">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
                     <p>Pantalón de vestir del uniforme.</p>
@@ -465,7 +465,7 @@
             </div>
 
             <div class="producto">
-                <img src="JOGGINGVERDE.jpg" alt="Peluche Dinosaurio Amigable">
+                <img src="JOGGINGVERDE.jpeg" alt="Peluche Dinosaurio Amigable">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
                     <p>Pantalon jogging verde del uniforme.</p>
@@ -474,7 +474,7 @@
             </div>
 
             <div class="producto">
-                <img src="ZPATOSNEGROSHOMBRE.jpeg" alt="Peluche Ballena Azul">
+                <img src="zapatos negro t40.jpg" alt="Peluche Ballena Azul">
                 <div class="producto-info">
                     <h2>Zapatos</h2>
                     <p>Zapatos negros.</p>
@@ -507,7 +507,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="ZPATOSNEGROSNENA.jpeg" alt="Peluche Mono Trepador">
+                <img src="ZAPATOSNEGROSNENA.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Zapatos</h2>
                     <p>zapatos negros talle 37.</p>
@@ -531,7 +531,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="libroINGLESyabuelaANORMAL.jpg" alt="Peluche Mono Trepador">
+                <img src="libroINGLESyabuelaANORMAL.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Libro</h2>
                     <p>LIbro “The picture of Dorian Gray” y "Una abuela anormal”".</p>
@@ -547,7 +547,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="novelasimpresas_frankestein y ceremoniasecreta.jpg" alt="Peluche Mono Trepador">
+                <img src="novelasimpresas_frankestein y ceremoniasecreta.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Frankenstein o el moderno prometeo" y “Ceremonia secreta”.</p>
@@ -563,7 +563,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="novelasimpresas_shrezada y rebeliondepalabras.jpg" alt="Peluche Mono Trepador">
+                <img src="novelasimpresas_shrezada y rebeliondepalabras.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Una y mil noches de sherezada" y “La rebelión de las palabras”.</p>
@@ -603,43 +603,43 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="topbyn.jpg" alt="Peluche Mono Trepador">
+                <img src="topbyn.jpeg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Mono Trepador</h2>
-                    <p>Mono de brazos largos con velcro en las manos.</p>
-                    <span class="precio">$8.800</span>
+                    <h2>TOP</h2>
+                    <p>Top color blanco y negro con argolla Talle UNICO.</p>
+                    <span class="precio">$3.500</span>
                 </div>
             </div>
             <div class="producto">
                 <img src="topnegroecocuero.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Mono Trepador</h2>
-                    <p>Mono de brazos largos con velcro en las manos.</p>
-                    <span class="precio">$8.800</span>
+                    <h2>Top</h2>
+                    <p>top negro de ecocuero Talle UNICO.</p>
+                    <span class="precio">$3.500</span>
                 </div>
             </div>
             <div class="producto">
                 <img src="toprojo.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Mono Trepador</h2>
-                    <p>Mono de brazos largos con velcro en las manos.</p>
-                    <span class="precio">$8.800</span>
+                    <h2>Top</h2>
+                    <p>top rojo Talle UNICO.</p>
+                    <span class="precio">$3.500</span>
                 </div>
             </div>
             <div class="producto">
                 <img src="toprosacon volados.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Mono Trepador</h2>
-                    <p>Mono de brazos largos con velcro en las manos.</p>
-                    <span class="precio">$8.800</span>
+                    <h2>Top</h2>
+                    <p>top color rosa claro con volados Talle UNICO.</p>
+                    <span class="precio">$3.500</span>
                 </div>
             </div>
             <div class="producto">
                 <img src="toprosa.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
-                    <h2>Mono Trepador</h2>
-                    <p>Mono de brazos largos con velcro en las manos.</p>
-                    <span class="precio">$8.800</span>
+                    <h2>Top</h2>
+                    <p>top color rosa Talle UNICO.</p>
+                    <span class="precio">$3.500</span>
                 </div>
         </div>
     </main>

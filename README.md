@@ -341,7 +341,7 @@
                 <img src="topnegromangaslargas.jpg" alt="Peluche Panda Bebé">
                 <div class="producto-info">
                     <h2>Top</h2>
-                    <p>Top negro manga larga transparente.</p>
+                    <p>Top negro manga larga transparente Talle Único.</p>
                     <span class="precio">$4.000</span>
 
                 </div>
@@ -351,7 +351,7 @@
                 <img src="pollerajeannenagrande.jpg" alt="Peluche Elefante Chiquito">
                 <div class="producto-info">
                     <h2>Pollera</h2>
-                    <p>Pollera de jean talle .</p>
+                    <p>Pollera de jean talle 36.</p>
                     <span class="precio">$4.500</span>
 
                 </div>
@@ -361,7 +361,7 @@
                 <img src="pantalonnegro con friza.jpg" alt="Peluche León Melenudo">
                 <div class="producto-info">
                     <h2>Pantalón</h2>
-                    <p>Pantalón negro con friza.</p>
+                    <p>Pantalón negro con friza Talle 16.</p>
                     <span class="precio">$3.500</span>
 
                 </div>
@@ -381,7 +381,7 @@
                 <img src="sueterfelicialila.jpeg" alt="Peluche Zorro Astuto">
                 <div class="producto-info">
                     <h2>Suéter</h2>
-                    <p>suéter violeta Felicia.</p>
+                    <p>suéter violeta Felicia Talle 16.</p>
                     <span class="precio">$4.500</span>
 
                 </div>
@@ -421,7 +421,7 @@
                 <img src="buzoblanco.jpeg" alt="Peluche Tigre Rayado">
                 <div class="producto-info">
                     <h2>Buzo del uniforme escolar</h2>
-                    <p>Buzo blanco uniforme de educación fisica.</p>
+                    <p>Buzo blanco uniforme de educación fisica Talle 16.</p>
                     <span class="precio">$4.500</span>
 
                 </div>
@@ -431,7 +431,7 @@
                 <img src="chombapique.jpeg" alt="Peluche Oveja Lanuda">
                 <div class="producto-info">
                     <h2>Chomba del uniforme escolar</h2>
-                    <p>Chomba de piqué beige del uniforme.</p>
+                    <p>Chomba de piqué beige del uniforme Talle 12.</p>
                     <span class="precio">$4.500</span>
 
                 </div>
@@ -441,7 +441,7 @@
                 <img src="sueterverde.jpeg" alt="Peluche Rana Saltarina">
                 <div class="producto-info">
                     <h2>Suéter del uniforme escolar</h2>
-                    <p>Suéter verde uniforme de clases.</p>
+                    <p>Suéter verde uniforme de clases Talle 2.</p>
                     <span class="precio">$4.500</span>
                 </div>
             </div>
@@ -450,7 +450,7 @@
                 <img src="pantalonuniforme.jpeg" alt="Peluche Pulpo Multicolor">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
-                    <p>Pantalón de vestir del uniforme.</p>
+                    <p>Pantalón de vestir del uniforme Talle 36.</p>
                     <span class="precio">$4.500</span>
                 </div>
             </div>
@@ -459,7 +459,7 @@
                 <img src="camperaacetato.jpg" alt="Peluche Búho Nocturno">
                 <div class="producto-info">
                     <h2>Campera del uniforme escolar</h2>
-                    <p>Campera uniforme de acetato.</p>
+                    <p>Campera uniforme de acetato Talle 16.</p>
                     <span class="precio">$6.000</span>
                 </div>
             </div>
@@ -468,7 +468,7 @@
                 <img src="JOGGINGVERDE.jpeg" alt="Peluche Dinosaurio Amigable">
                 <div class="producto-info">
                     <h2>Pantalón del uniforme escolar</h2>
-                    <p>Pantalon jogging verde del uniforme.</p>
+                    <p>Pantalon jogging verde del uniforme Talle 16.</p>
                     <span class="precio">$4.500</span>
                 </div>
             </div>
@@ -495,7 +495,7 @@
                 <img src="botas marrones.jpg" alt="Peluche Mono Trepador">
                 <div class="producto-info">
                     <h2>Botas</h2>
-                    <p>botas marrones talle 3/31.</p>
+                    <p>botas marrones talle 30/31.</p>
                     <span class="precio">$9.000</span>
                 </div>
             </div>

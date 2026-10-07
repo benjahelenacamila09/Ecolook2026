@@ -596,7 +596,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="topbyn.jpeg" alt="Peluche Mono Trepador">
+                <img src="topbyn.jpeg" alt="">
                 <div class="producto-info">
                     <h2>TOP</h2>
                     <p>Top color blanco y negro con argolla Talle UNICO.</p>
@@ -604,7 +604,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="topnegroecocuero.jpg" alt="Peluche Mono Trepador">
+                <img src="topnegroecocuero.jpg" alt="">
                 <div class="producto-info">
                     <h2>Top</h2>
                     <p>top negro de ecocuero Talle UNICO.</p>
@@ -612,7 +612,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="toprojo.jpg" alt="Peluche Mono Trepador">
+                <img src="toprojo.jpg" alt="">
                 <div class="producto-info">
                     <h2>Top</h2>
                     <p>top rojo Talle UNICO.</p>
@@ -620,7 +620,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="toprosacon volados.jpg" alt="Peluche Mono Trepador">
+                <img src="toprosacon volados.jpg" alt="">
                 <div class="producto-info">
                     <h2>Top</h2>
                     <p>top color rosa claro con volados Talle UNICO.</p>
@@ -628,7 +628,7 @@
                 </div>
             </div>
             <div class="producto">
-                <img src="toprosa.jpg" alt="Peluche Mono Trepador">
+                <img src="toprosa.jpg" alt="">
                 <div class="producto-info">
                     <h2>Top</h2>
                     <p>top color rosa Talle UNICO.</p>
@@ -636,7 +636,7 @@
                 </div>
                 </div>
             <div class="producto">
-                <img src="buzo de mujer hermoso.jpeg" alt="Peluche Mono Trepador">
+                <img src="buzo de mujer hermoso.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Buzo</h2>
                     <p>Buzo de mujer Talle 3.</p>
@@ -644,7 +644,7 @@
                 </div>
                 </div>
             <div class="producto">
-                <img src="bermudablancabella.jpeg" alt="Peluche Mono Trepador">
+                <img src="bermudablancabella.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Bermuda</h2>
                     <p>Bermuda de Niño Blanca, Talle S.</p>
@@ -652,7 +652,7 @@
                 </div>
                 </div>
             <div class="producto">
-                <img src="camisetacool.jpeg" alt="Peluche Mono Trepador">
+                <img src="camisetacool.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Camiseta</h2>
                     <p>Camiseta Blanca Talla L Marca Polo.</p>
@@ -660,7 +660,7 @@
                 </div>
                 </div>
             <div class="producto">
-                <img src="buzocami.jpeg" alt="Peluche Mono Trepador">
+                <img src="buzocami.jpeg" alt="">
                 <div class="producto-info">
                     <h2>Buzo</h2>
                     <p>Buzo blanco Talle único.</p>

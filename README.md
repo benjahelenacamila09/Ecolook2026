@@ -528,7 +528,7 @@
                 <div class="producto-info">
                     <h2>Libro</h2>
                     <p>LIbro “The picture of Dorian Gray” y "Una abuela anormal”".</p>
-                    <span class="precio">$5.500</span>
+                    <span class="precio">$5.500 c/u</span>
                 </div>
             </div>
             <div class="producto">
@@ -544,7 +544,7 @@
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Frankenstein o el moderno prometeo" y “Ceremonia secreta”.</p>
-                    <span class="precio">$3.000</span>
+                    <span class="precio">$3.000 c/u</span>
                 </div>
             </div>
             <div class="producto">
@@ -560,7 +560,7 @@
                 <div class="producto-info">
                     <h2>Novela</h2>
                     <p>Novela “Una y mil noches de sherezada" y “La rebelión de las palabras”.</p>
-                    <span class="precio">$3.000</span>
+                    <span class="precio">$3.000 c/u</span>
                 </div>
             </div>
             <div class="producto">
